@@ -20,7 +20,7 @@ The PCs are computed using `sklearn` from the trajectories.
 
 ## Citation:
 
-Please cite: https://arxiv.org/abs/2605.08381
+Please cite: https://arxiv.org/abs/
 
 ```
 
