@@ -20,10 +20,18 @@ The PCs are computed using `sklearn` from the trajectories.
 
 ## Citation:
 
-Please cite: https://arxiv.org/abs/
+Please cite: https://arxiv.org/abs/2606.24283
 
 ```
-
+@misc{banerjee2026investigating,
+      title={Investigating causality between principal components in protein dynamics}, 
+      author={Debarshi Banerjee and Ali Hassanali and Alessandro Laio},
+      year={2026},
+      eprint={2606.24283},
+      archivePrefix={arXiv},
+      primaryClass={physics.chem-ph},
+      url={https://arxiv.org/abs/2606.24283}, 
+}
 
 ```
 
